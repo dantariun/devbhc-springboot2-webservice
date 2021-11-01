@@ -5,7 +5,7 @@ on:
   
 env:
   S3_BUCKET_NAME: devbhc-springboot2-webservice
-  PROJECT_NAME: devbhc-springboot2-webservice
+  PROJECT_NAME: play_ground_logging
   
 jobs:
   deploy:
